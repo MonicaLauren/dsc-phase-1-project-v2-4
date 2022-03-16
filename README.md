@@ -9,7 +9,7 @@ The Phase 1 Project Notebook.ipynb​ is the final notebook with markdown and co
 [1]: [Box Office Mojo](https://www.boxofficemojo.com/)
 [2]: [IMDB](https://www.imdb.com/)
 
-The project used exploratory data analysis of [IMDB][1] and [Box Office Mojo][2] data. The IMBD data included information on titles, directors, actors, and genres. The Box Office Mojo data included domestic gross revenue of movies. 
+The project used exploratory data analysis of IMDB and Box Office Mojo data. The IMBD data included information on titles, directors, actors, and genres. The Box Office Mojo data included domestic gross revenue of movies. 
 
 ### Business Problem
 
@@ -19,11 +19,6 @@ Microsoft would like to create a movie studio. This analysis provides informatio
 
 The project used analysis of genres, directors, and actors with the highest domestic gross revenue to provide observation to Microsoft as to where their budget would be best invested. 
 
-![genres.jpg] (/Users/monicahaderthauer/Documents/Flatiron/Project/dsc-phase-1-project-v2-4)
-
-! [director.jpg] (/Users/monicahaderthauer/Documents/Flatiron/Project/dsc-phase-1-project-v2-4)
-
-! [actor.jpg] (/Users/monicahaderthauer/Documents/Flatiron/Project/dsc-phase-1-project-v2-4)
  
    
 ## Conclusion
